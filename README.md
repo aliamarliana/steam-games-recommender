@@ -5,7 +5,7 @@
 ## 1. Project Background  
 
 ### 1.1 Background of the Problem Domain  
-The video game industry has grown significantly over the past decade, generating **$187.7 billion in 2024**, with projections surpassing $200 billion by 2025 (Knezovic, 2025). Steam, developed by Valve, is one of the largest gaming platforms, reporting **132M monthly active users** and breaking records with **40M concurrent users** in 2025.  
+The video game industry has grown significantly over the past decade, generating **$187.7 billion in 2024**, with projections surpassing $200 billion by 2025. Steam, developed by Valve, is one of the largest gaming platforms, reporting **132M monthly active users** and breaking records with **40M concurrent users** in 2025.  
 
 As the game catalog grows, users struggle to discover games that fit their interests. **Recommender systems** have therefore become essential to help personalize game discovery beyond popularity-based methods.  
 
