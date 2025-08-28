@@ -113,4 +113,3 @@ This project successfully built a **Steam video game recommender system** using 
 - Content-based filtering added value in **cold-start cases**.  
 
 👉 Overall, the recommender system effectively addressed game discovery challenges and showed potential for **hybrid extensions** with richer metadata.  
----
